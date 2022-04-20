@@ -7,10 +7,10 @@ meaning you can fork the project and host it yourself!
 
 # Linkies
 
-[Discussion & Management Repo](https://github.com/concordchat/concord)
+[Concord](https://github.com/concordchat/concord): Discussion & Management Repo
 
-[Concord REST API](https://github.com/concordchat/ekranoplan)
+[Ekranoplan](https://github.com/concordchat/ekranoplan): Concord REST API
 
-[Concord WebSocket API](https://github.com/concordchat/blackbird)
+[Blackbird](https://github.com/concordchat/blackbird): Concord WebSocket API
 
-[Concord Blog](https://blog.concord.chat)
+[blog.concord.chat](https://blog.concord.chat): Concord Blog
