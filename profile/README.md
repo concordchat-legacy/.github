@@ -5,12 +5,16 @@ Concord is a chatting platform built for privacy, speed and scale.
 Unlike something like Discord or Guilded we are open-source,
 meaning you can fork the project and host it yourself!
 
-# Linkies
+# Contact
+You can contact us via our email, our discussion repo [Concord](https://github.com/concordchat/concord), or our Official [Discord](https://discord.gg/JgpM79pH9z)
 
-[Concord](https://github.com/concordchat/concord): Discussion & Management Repo
+# NitroDB Implementation
+[NitroDB](https://github.com/nitrodb) is the **only** official implementation of the Concord Standard.
 
-[Ekranoplan](https://github.com/concordchat/ekranoplan): Concord REST API
+The APIs it has, include but are not limited to:
 
-[Blackbird](https://github.com/concordchat/blackbird): Concord WebSocket API
+[NitroDB](https://github.com/nitrodb/nitrodb): Nitro Data Broker
 
-[blog.concord.chat](https://blog.concord.chat): Concord Blog
+[NitroWS](https://github.com/nitrodb/nitrows): Nitro WebSocket Data Broker
+
+[NitroCDN](https://github.com/nitrodb/nitrocdn): Nitro Content Delivery Network
