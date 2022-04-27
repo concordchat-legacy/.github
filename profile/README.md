@@ -13,8 +13,8 @@ You can contact us via our email, our discussion repo [Concord](https://github.c
 
 The APIs it has, include but are not limited to:
 
-[NitroDB](https://github.com/nitrodb/nitrodb): Nitro Data Broker
+[NitroDB](https://github.com/nitrodb/nitrodb): Nitro Delivery Broker
 
-[NitroWS](https://github.com/nitrodb/nitrows): Nitro WebSocket Data Broker
+[NitroWS](https://github.com/nitrodb/nitrows): Nitro WebSocket Delivery Broker
 
 [NitroCDN](https://github.com/nitrodb/nitrocdn): Nitro Content Delivery Network
