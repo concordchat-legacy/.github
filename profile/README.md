@@ -12,6 +12,6 @@ You can contact us via our email, our discussion [repository](https://github.com
 
 The APIs we have, include but are not limited to:
 
-[tungsten](https://github.com/concordchat/tungsten): Redux REST API
+[Tungsten](https://github.com/concordchat/tungsten): Redux REST API
 
 [NitroWS](https://github.com/concordchat/nitrows): Redux WebSocket API
