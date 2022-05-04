@@ -14,4 +14,4 @@ The APIs we have, include but are not limited to:
 
 [Tungsten](https://github.com/concordchat/tungsten): Redux REST API
 
-[NitroWS](https://github.com/concordchat/nitrows): Redux WebSocket API
+[Redix](https://github.com/concordchat/nitrows): Redux WebSocket API
