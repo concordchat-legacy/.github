@@ -1,9 +1,4 @@
-# What is Concord?
-Concord is a chatting platform built for privacy, speed and scale.
-
-# Why Concord?
-Unlike something like Discord or Guilded we are open-source,
-meaning you can fork the project and host it yourself!
+#### Concord ❤️ OSS
 
 # Contact
 You can contact us via our email, our discussion [repository](https://github.com/concordchat/discussion), or our Official [Discord.](https://discord.gg/JgpM79pH9z)
