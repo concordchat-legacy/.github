@@ -1,9 +1,9 @@
-#### Concord ❤️ OSS
+# Concord ❤️ OSS
 
-# Contact
+## Contact
 You can contact us via our email, our discussion [repository](https://github.com/concordchat/discussion), or our Official [Discord.](https://discord.gg/JgpM79pH9z)
 
-# Repository's
+## Repository's
 
 The APIs we have, include but are not limited to:
 
