@@ -1,12 +1,9 @@
-# Concord ❤️ OSS
-
 ## Contact
 You can contact us via our email, our discussion [repository](https://github.com/concordchat/discussion), or our Official [Discord.](https://discord.gg/JgpM79pH9z)
 
-## Repository's
+## Projects
 
-The APIs we have, include but are not limited to:
+- [Silicon](https://github.com/concordchat/silicon) - Concord Web App
+- [Concore](https://github.com/concordchat/concore) - Concords API
+- [Gateway](https://github.com/concordchat/gateway) - Concord Notification Service
 
-[Tungsten](https://github.com/concordchat/tungsten): Concord REST API
-
-[Redix](https://github.com/concordchat/redix): Concord WebSocket API
